@@ -1,3 +1,3 @@
 # testGit
 
-hello word!
+helo word!
